@@ -5,10 +5,6 @@ Proposal for
 Real Estate Management Platform : Showcase and sell your Apartment, Calculate your mortgage, Book your Dream House.
 
 
-Submitted by: Sayeb Rayat 2012733042 , Irfan Ahmed, Sadiqul Islam Shafi, Maahier Haai
-
-
-
 
 Table of Contents
 Introduction .......................................................................................................... 4
